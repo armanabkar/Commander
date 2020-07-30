@@ -1,7 +1,0 @@
-POST https://localhost:5001/ HTTP/1.1
-content-type: application/json
-
-  {
-    "howTo": "Run Deno tests"
-  }
-
