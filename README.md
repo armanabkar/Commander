@@ -1,8 +1,6 @@
 # Commander
 A simple REST API for saving common command line commands | Using ASP.NET Core Web API and SQLite
 
-# Deno MongoDB REST API
-
 ## Installation
 
 1. Clone the repository
