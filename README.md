@@ -1,5 +1,5 @@
 # Commander
-A simple REST API for saving common command line commands | Using ASP.NET Core Web API and SQLite
+A simple REST API for saving common command line commands | Using ASP.NET Core 3.1 Web API and SQLite
 
 ## Installation
 
